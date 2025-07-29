@@ -22,6 +22,17 @@
 
 ---
 
+## **Orange Pi SBC YouTube Playlist**
+
+- 📺 **[Orange Pi Zero 3](https://www.youtube.com/playlist?list=PLxrSjjYyzaaI_eIo1gmEp6e2QRkiUqdk3)**  
+- 📺 **[Orange Pi 4A](https://www.youtube.com/playlist?list=PLxrSjjYyzaaKhG8dJjDUM0EYC39efBKAw)**  
+- 📺 **[Orange Pi Zero 2W](https://www.youtube.com/playlist?list=PLxrSjjYyzaaKiJdWCMHRrSrB644BnoZ5I)**  
+- 📺 **[Orange Pi RV2](https://www.youtube.com/playlist?list=PLxrSjjYyzaaK0ubjjqmDJ1Tk7ReVBwgMj)**  
+- 📺 **[Orange Pi 5 Plus](https://www.youtube.com/playlist?list=PLxrSjjYyzaaKqywZO8YE5wo7mHz5TYeUJ)**  
+
+---
+
+
 ### Default Login Credentials
 **Username and Password options:**  
 
@@ -100,15 +111,6 @@ bash <(curl -sL https://raw.githubusercontent.com/node-red/linux-installers/mast
 ```
 This command will install Node-RED along with the necessary Node.js components.
 
----
-
-## **Orange Pi YouTube Playlist Links**
-
-- **Orange Pi Zero 3:** [YouTube Playlist](https://www.youtube.com/playlist?list=PLxrSjjYyzaaI_eIo1gmEp6e2QRkiUqdk3)  
-- **Orange Pi 4A:** [YouTube Playlist](https://www.youtube.com/playlist?list=PLxrSjjYyzaaKhG8dJjDUM0EYC39efBKAw)
-- **Orange Pi Zero 2W:** [YouTube Playlist](https://www.youtube.com/playlist?list=PLxrSjjYyzaaKiJdWCMHRrSrB644BnoZ5I)
-- **Orange Pi RV2:** [YouTube Playlist](https://www.youtube.com/playlist?list=PLxrSjjYyzaaK0ubjjqmDJ1Tk7ReVBwgMj)
-- **Orange Pi 5 Plus:** [YouTube Playlist](https://www.youtube.com/playlist?list=PLxrSjjYyzaaKqywZO8YE5wo7mHz5TYeUJ)
 
 ---
 
