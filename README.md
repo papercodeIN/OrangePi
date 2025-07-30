@@ -43,7 +43,7 @@
 | Orange Pi 5 PLus | [Download](https://drive.google.com/drive/folders/1wOmKUla8CwUPTfxvfCGutj8lbMZFtFCm)  |[Download](https://github.com/leeboby/kali-images)  |  | [Download](https://drive.google.com/drive/folders/1rTOnBuTJA8k8ip1chh_EtnA6zz6c0UZL) | [Download](https://drive.google.com/drive/folders/1I_asEsyjMf_nixpymLdco7SCxr9AveYH) | [Download](https://drive.google.com/drive/folders/1MgMxx8oyLqSpWMS3E4srTOpRzCWxJVVY) | [Download](https://drive.google.com/drive/folders/1WjaxnJXHz1-SEgNnw8HIfUTQN_1_gBKq) |  | [Download](https://dietpi.com/#downloadinfo) | -->
 
 
-| **OS Type**           | **Orange Pi Zero 2W** | **Orange Pi RV2** | **Orange Pi Zero 3** | **Orange Pi 4A** | **Orange Pi 5 Plus** |
+| **OS Type**           | **OPI Zero 2W** | **OPI RV2** | **OPI Zero 3** | **OPI 4A** | **OPI 5 Plus** |
 |----------------------|------------------------|-------------------|-----------------------|------------------|------------------------|
 | **Ubuntu**           | [Download](https://drive.google.com/drive/folders/1g806xyPnVFyM8Dz_6wAWeoTzaDg3PH4Z) | [Download](https://drive.google.com/drive/folders/1QgQRX-wtvsTJnOoMBVct-g5HLWb7g6n-) | [Download](https://drive.google.com/drive/folders/1aLTaOlIMdHhwk3oeZY2YPdB9T8U-EAKA?usp=shar) | [Download](https://drive.google.com/drive/folders/1bMZ8IPZa6hdQ0bIGUVVV8c62psTVSQ8H?usp=sharing) | [Download](https://drive.google.com/drive/folders/1wOmKUla8CwUPTfxvfCGutj8lbMZFtFCm) |
 | **Kali**             | [Download](https://github.com/leeboby/kali-images) |  | [Download](https://github.com/leeboby/kali-images) |  | [Download](https://github.com/leeboby/kali-images) |
