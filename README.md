@@ -43,11 +43,10 @@
 ---
 
 ### OS For Orange Pi SBC's
-**Username and Password options:**  
 
-| **Board** | **Ubuntu** | **Kali** |
+| **Board** | **Ubuntu** | **Kali** | **RPI** |
 |-----------------|-------------|-------------|
-| Orange Pi Zero 2W        |   | [Download](https://github.com/leeboby/kali-images)  |
+| Orange Pi Zero 2W        | [Download](https://drive.google.com/drive/folders/1g806xyPnVFyM8Dz_6wAWeoTzaDg3PH4Z)  | [Download](https://github.com/leeboby/kali-images)  | [Download](https://github.com/leeboby/raspberry-pi-os-images) |
 
 ---
 
