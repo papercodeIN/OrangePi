@@ -32,7 +32,6 @@
 
 ---
 
-
 ### Default Login Credentials
 **Username and Password options:**  
 
@@ -42,6 +41,16 @@
 | Option 2        | `root`      | `orangepi`  |
 
 ---
+
+### OS For Orange Pi SBC's
+**Username and Password options:**  
+
+| **Board** | **Ubuntu** | **Kali** |
+|-----------------|-------------|-------------|
+| Orange Pi Zero 2W        |   | [Download](https://github.com/leeboby/kali-images)  |
+
+---
+
 
 ### SSH Access
 To connect to the Orange Pi device over SSH, use the following commands:  
