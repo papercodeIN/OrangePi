@@ -53,7 +53,7 @@
 | **Orange Pi OS (Arch)** | [Download](https://drive.google.com/drive/folders/1gaXHqBJQljyyovk2vVPQzT8n1wqm6Bxt) |  | [Download](https://drive.google.com/drive/folders/1oRNJLAbbvtbAjXdmsokZbYOyzed4HsQm?usp=sharing) |  | [Download](https://drive.google.com/drive/folders/1MgMxx8oyLqSpWMS3E4srTOpRzCWxJVVY) |
 | **OpenWRT**          | [Download](https://drive.google.com/drive/folders/1LfgBqpa0kbxj1NGg1t4iselso_V5ImWd) | [Download](https://drive.google.com/drive/folders/13cz1kLpb300xcpz-4vv-L3AvyjI9Qjlg) | [Download](https://drive.google.com/drive/folders/1IKYEIGmJ-5js7SpndM-pEd7xOs5_e5CA?usp=sharing) |  | [Download](https://drive.google.com/drive/folders/1WjaxnJXHz1-SEgNnw8HIfUTQN_1_gBKq) |
 | **Armbian** |  |  | [Download](https://github.com/leeboby/armbian-images) |  |  |
-| **DietPi** |  |  |  |  | [Download](https://dietpi.com/#downloadinfo) |
+| **DietPi** | [Download](https://dietpi.com/downloads/images/DietPi_OrangePiZero2W-ARMv8-Bookworm.img.xz) |  |  |  | [Download](https://dietpi.com/#downloadinfo) |
 | **Orange Pi OS(OH)** |  | [Download](https://drive.google.com/drive/folders/1d2x1uIywi8xkmJWcnRl9QOxaD4DDIPO0) |  |  | [Download](https://drive.google.com/drive/folders/1NF1N4SRSql9vPJ5O80vw8ZJ6EH0JjKwk) |
 | **Orange Pi OS(Droid)** |  |  |  |  | [Download](https://drive.google.com/drive/folders/1gyT4bwfOihKos8DXnfzT4ZHs7wiLbpNN) |
 | **BreadOS** |  | [Download](https://wiki.bredos.org/en/orangepi-rv) |  |  | [Download](https://bredos.org/download.html) |
