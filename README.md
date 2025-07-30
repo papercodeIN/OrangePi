@@ -52,8 +52,11 @@
 | **Debian**           | [Download](https://drive.google.com/drive/folders/1EH8mMQbgh4IgtOWKgg4nmRuZ57Gvfp9X) |  | [Download](https://drive.google.com/drive/folders/1g2o209HE9_28v7wIXdq0tf5jOTTJdpVb?usp=shar) | [Download](https://drive.google.com/drive/folders/1pBWCRFR46T4yHOt33V-Vc4vErTl-DKmF?usp=sharing) | [Download](https://drive.google.com/drive/folders/1I_asEsyjMf_nixpymLdco7SCxr9AveYH) |
 | **Orange Pi OS (Arch)** | [Download](https://drive.google.com/drive/folders/1gaXHqBJQljyyovk2vVPQzT8n1wqm6Bxt) |  | [Download](https://drive.google.com/drive/folders/1oRNJLAbbvtbAjXdmsokZbYOyzed4HsQm?usp=sharing) |  | [Download](https://drive.google.com/drive/folders/1MgMxx8oyLqSpWMS3E4srTOpRzCWxJVVY) |
 | **OpenWRT**          | [Download](https://drive.google.com/drive/folders/1LfgBqpa0kbxj1NGg1t4iselso_V5ImWd) |  | [Download](https://drive.google.com/drive/folders/1IKYEIGmJ-5js7SpndM-pEd7xOs5_e5CA?usp=sharing) |  | [Download](https://drive.google.com/drive/folders/1WjaxnJXHz1-SEgNnw8HIfUTQN_1_gBKq) |
-| **Armbian**          |  |  | [Download](https://github.com/leeboby/armbian-images) |  |  |
-| **DietPi**           |  |  |  |  | [Download](https://dietpi.com/#downloadinfo) |
+| **Armbian** |  |  | [Download](https://github.com/leeboby/armbian-images) |  |  |
+| **DietPi** |  |  |  |  | [Download](https://dietpi.com/#downloadinfo) |
+| **Orange Pi OS(OH)** |  |  |  |  | [Download](https://drive.google.com/drive/folders/1NF1N4SRSql9vPJ5O80vw8ZJ6EH0JjKwk) |
+| **Orange Pi OS(Droid)** |  |  |  |  | [Download](https://drive.google.com/drive/folders/1gyT4bwfOihKos8DXnfzT4ZHs7wiLbpNN) |
+
 
 
 
