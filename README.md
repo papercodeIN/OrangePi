@@ -44,9 +44,9 @@
 
 ### OS For Orange Pi SBC's
 
-| **Board** | **Ubuntu** | **Kali** | **RPI** |
-|-----------------|-------------|-------------|-------------|
-| Orange Pi Zero 2W | [Download](https://drive.google.com/drive/folders/1g806xyPnVFyM8Dz_6wAWeoTzaDg3PH4Z)  | [Download](https://github.com/leeboby/kali-images)  | [Download](https://github.com/leeboby/raspberry-pi-os-images) |
+| **Board** | **Ubuntu** | **Kali** | **RPI** | **Android** | **Debian** |
+|-----------------|-------------|-------------|-------------|-------------|-------------|
+| Orange Pi Zero 2W | [Download](https://drive.google.com/drive/folders/1g806xyPnVFyM8Dz_6wAWeoTzaDg3PH4Z)  | [Download](https://github.com/leeboby/kali-images)  | [Download](https://github.com/leeboby/raspberry-pi-os-images) | [Download](https://drive.google.com/drive/folders/19QpUgDYF35BVyB9RI38BLKqtnIHtkh5k) | [Download](https://drive.google.com/drive/folders/1EH8mMQbgh4IgtOWKgg4nmRuZ57Gvfp9X)
 
 ---
 
