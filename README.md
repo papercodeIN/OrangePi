@@ -56,7 +56,7 @@
 | **DietPi** |  |  |  |  | [Download](https://dietpi.com/#downloadinfo) |
 | **Orange Pi OS(OH)** |  | [Download](https://drive.google.com/drive/folders/1d2x1uIywi8xkmJWcnRl9QOxaD4DDIPO0) |  |  | [Download](https://drive.google.com/drive/folders/1NF1N4SRSql9vPJ5O80vw8ZJ6EH0JjKwk) |
 | **Orange Pi OS(Droid)** |  |  |  |  | [Download](https://drive.google.com/drive/folders/1gyT4bwfOihKos8DXnfzT4ZHs7wiLbpNN) |
-| **BreadOS** |  |  |  |  | [Download](https://bredos.org/download.html) |
+| **BreadOS** |  | [Download](https://wiki.bredos.org/en/orangepi-rv) |  |  | [Download](https://bredos.org/download.html) |
 | **Windows on Arm** |  |  |  |  | [Download](https://worproject.com/guides/how-to-install/on-rockchip) |
 | **CentOS** |  |  |  |  | [Download](https://github.com/leeboby/centos-images) |
 | **Rocky-Linux** |  |  |  |  | [Download](https://github.com/leeboby/rocky-linux-images) |
