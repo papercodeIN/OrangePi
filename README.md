@@ -44,9 +44,9 @@
 
 ### OS For Orange Pi SBC's
 
-| **Board** | **Ubuntu** | **Kali** | **RPI** | **Android** | **Debian** |
+| **Board** | **Ubuntu** | **Kali** | **RPI** | **Android** | **Debian** | **Orange Pi OS(Arch)** | **OpenWRT** |
 |-----------------|-------------|-------------|-------------|-------------|-------------|
-| Orange Pi Zero 2W | [Download](https://drive.google.com/drive/folders/1g806xyPnVFyM8Dz_6wAWeoTzaDg3PH4Z)  | [Download](https://github.com/leeboby/kali-images)  | [Download](https://github.com/leeboby/raspberry-pi-os-images) | [Download](https://drive.google.com/drive/folders/19QpUgDYF35BVyB9RI38BLKqtnIHtkh5k) | [Download](https://drive.google.com/drive/folders/1EH8mMQbgh4IgtOWKgg4nmRuZ57Gvfp9X)
+| Orange Pi Zero 2W | [Download](https://drive.google.com/drive/folders/1g806xyPnVFyM8Dz_6wAWeoTzaDg3PH4Z)  | [Download](https://github.com/leeboby/kali-images)  | [Download](https://github.com/leeboby/raspberry-pi-os-images) | [Download](https://drive.google.com/drive/folders/19QpUgDYF35BVyB9RI38BLKqtnIHtkh5k) | [Download](https://drive.google.com/drive/folders/1EH8mMQbgh4IgtOWKgg4nmRuZ57Gvfp9X) | [Download](https://drive.google.com/drive/folders/1gaXHqBJQljyyovk2vVPQzT8n1wqm6Bxt) | [Download](https://drive.google.com/drive/folders/1LfgBqpa0kbxj1NGg1t4iselso_V5ImWd) |
 
 ---
 
