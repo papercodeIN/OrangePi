@@ -42,7 +42,7 @@
 | 6 | Getting Started with Orange Pi Zero 2W \| Flash OpenWRT to SD Card \| HDMI Screen Integration | [Watch] |
 | 7 | Getting Started with Orange Pi Zero 2W \| Flash Orange Pi (Arch) OS to SD Card \| HDMI Screen Integration | [Watch] |
 | 8 | Step-by-Step Guide on Flashing Armbian OS to Orange Pi Zero 2W with Armbian Imager | [Watch](https://youtu.be/3_APNcBPV70) |
-| 9 | Step-by-Step Guide on Flashing CasaOS to Orange Pi Zero 2W | [Watch]() |
+| 9 | Step-by-Step Guide on Flashing CasaOS to Orange Pi Zero 2W | [Watch] |
 
 ---
 
